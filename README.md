@@ -3,3 +3,5 @@
 
 
 **Welcome to my Restaurant :)**
+
+![image](photo.jpg)
